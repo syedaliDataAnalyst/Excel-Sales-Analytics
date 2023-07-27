@@ -3,7 +3,7 @@
 
 - **Project objective:** 
 
-    **1.** Create a _[customer performance report](https://github.com/syedaliDataAnalyst/Excel-Sales-Analytics/blob/main/FinanceAnalytics-Report1.pdf))_ 
+    **1.** Create a _[customer performance report](https://github.com/syedaliDataAnalyst/Excel-Sales-Analytics/blob/main/SalesAnalytics-Report1.pdf)_ 
 
     **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/syedaliDataAnalyst/Excel-Sales-Analytics/blob/main/FinanceAnalytics-Report2.pdf))_
 
